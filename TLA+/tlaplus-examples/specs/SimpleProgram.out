@@ -1,0 +1,28 @@
+@!@!@STARTMSG 2262:0 @!@!@
+TLC2 Version 2.20 of Day Month 20?? (rev: 0dbe98d)
+@!@!@ENDMSG 2262 @!@!@
+@!@!@STARTMSG 2187:0 @!@!@
+Running breadth-first search Model-Checking with fp 55 and seed -470381302755780111 with 1 worker on 8 cores with 7225MB heap and 64MB offheap memory [pid: 22524] (Windows 10 10.0 amd64, Oracle Corporation 21.0.4 x86_64, MSBDiskFPSet, DiskStateQueue).
+@!@!@ENDMSG 2187 @!@!@
+@!@!@STARTMSG 2220:0 @!@!@
+Starting SANY...
+@!@!@ENDMSG 2220 @!@!@
+Parsing file C:\Users\josjohn\ContinuedEducation\TLA+\tlaplus-examples\specs\SimpleProgram.tla (file:/c:/Users/josjohn/ContinuedEducation/TLA+/tlaplus-examples/specs/SimpleProgram.tla)
+Parsing file C:\Users\josjohn\AppData\Local\Temp\tlc-13913649430993550807\Integers.tla (jar:file:/C:/Users/josjohn/.vscode/extensions/tlaplus.vscode-ide-2024.8.191949/tools/tla2tools.jar!/tla2sany/StandardModules/Integers.tla)
+Parsing file C:\Users\josjohn\AppData\Local\Temp\tlc-13913649430993550807\Naturals.tla (jar:file:/C:/Users/josjohn/.vscode/extensions/tlaplus.vscode-ide-2024.8.191949/tools/tla2tools.jar!/tla2sany/StandardModules/Naturals.tla)
+Semantic processing of module Naturals
+Semantic processing of module Integers
+Semantic processing of module SimpleProgram
+@!@!@STARTMSG 2219:0 @!@!@
+SANY finished.
+@!@!@ENDMSG 2219 @!@!@
+@!@!@STARTMSG 2185:0 @!@!@
+Starting... (2024-08-30 10:19:02)
+@!@!@ENDMSG 2185 @!@!@
+@!@!@STARTMSG 2229:1 @!@!@
+The invariant Good specified in the configuration file
+is not defined in the specification.
+@!@!@ENDMSG 2229 @!@!@
+@!@!@STARTMSG 2186:0 @!@!@
+Finished in 415ms at (2024-08-30 10:19:02)
+@!@!@ENDMSG 2186 @!@!@

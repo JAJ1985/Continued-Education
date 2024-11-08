@@ -1,0 +1,1 @@
+﻿write-host "This is a test output to the monitor."
